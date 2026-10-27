@@ -7,6 +7,10 @@ luaa coding/roblox studio
 pygames
 SQlite
 
+my projects:
+python coding
+roblox games
+
 how to reach me:
 phone: +357 95 111023
 gmail: ilia.avdyeyev.a@gmail.com
